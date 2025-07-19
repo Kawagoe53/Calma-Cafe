@@ -882,7 +882,7 @@ a i {
     }
 
     .section-text {
-        font-size: 0.75rem;
+        font-size: 0.71rem;
         margin-bottom: 60px;
     }
 
@@ -1144,7 +1144,7 @@ a i {
 
 @media screen and (max-width: 390px) {
     .menu-name {
-        font-size: 0.75rem;
+        font-size: 0.65rem;
     }
 
     .menu-item {
